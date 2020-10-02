@@ -1,3 +1,3 @@
 #! /bin/bash
 
-pytest
+pytest localhost:8082/challenge3-app
